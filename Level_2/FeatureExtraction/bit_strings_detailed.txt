@@ -1,0 +1,12 @@
+Parameter and return types of array2d are: ['w:Dyn', 'h:Dyn'] -> Tuple(Dyn,Dyn,Dyn)
+0,0,1,
+Parameter and return types of idx are: ['arr:Tuple(Dyn,Dyn,Dyn)', 'x:Dyn', 'y:Dyn'] -> Dyn
+1,0,0,0,
+Parameter and return types of getitem are: ['arr:Tuple(Dyn,Dyn,Dyn)', 'x_y:Dyn'] -> Dyn
+1,0,0,
+Parameter and return types of setitem are: ['arr:Tuple(Dyn,Dyn,Dyn)', 'x_y:Tuple(Dyn,Dyn)', 'val:Dyn'] -> Tuple(Dyn,Dyn,Dyn)
+1,1,0,1,
+Parameter and return types of SOR_execute are: ['omega:Float', 'G:Dyn', 'cycles:Dyn'] -> Dyn
+1,0,0,0,
+Parameter and return types of bench_SOR are: ['loops:Int', 'n:Int', 'cycles:Dyn'] -> Dyn
+1,1,0,0,

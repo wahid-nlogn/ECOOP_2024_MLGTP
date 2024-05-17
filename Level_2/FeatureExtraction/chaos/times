@@ -1,0 +1,29 @@
+chaos203ppNoC.py 
+69s
+
+retic chaos203.py
+61s
+
+chaos2031.py: removed type annotation for __call__ in 'Spline' class
+58.06s
+
+python .\chaos203ppNoC.py
+59.00471210479736
+
+chaos203ppNoNo1st.py removes all cast information from class GVector
+44.704850912094116
+
+chaos203ppNoNo2nd.py removes all casts in Spline 
+37.835227966308594
+
+chaos203ppNoNo1st2nd.py removes all casts in Spline and GVector
+23.797815561294556s
+
+chaos203ppNoCastsInMain.py removes all casts in the function main
+23.604820489883423s
+
+
+
+
+
+

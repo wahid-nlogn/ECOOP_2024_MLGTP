@@ -1,0 +1,768 @@
+monte_carlo1.py
+{'initialize': 92.39000000000003, 'rand': 17.73, 'nextDouble': 75.96, 'MonteCarlo': 47.690000000000005, 'main': 32.348}
+monte_carlo10.py
+{'initialize': 92.39000000000003, 'rand': 17.73, 'nextDouble': 42.86, 'MonteCarlo': 47.690000000000005, 'main': 32.348}
+monte_carlo100.py
+{'initialize': 73.75, 'rand': 59.730000000000004, 'nextDouble': 83.36, 'MonteCarlo': 1.29, 'main': 32.348}
+monte_carlo101.py
+{'initialize': 73.75, 'rand': 59.730000000000004, 'nextDouble': 83.36, 'MonteCarlo': 2.15, 'main': 31.918}
+monte_carlo102.py
+{'initialize': 73.75, 'rand': 59.730000000000004, 'nextDouble': 83.36, 'MonteCarlo': 1.72, 'main': 31.918}
+monte_carlo103.py
+{'initialize': 73.75, 'rand': 59.730000000000004, 'nextDouble': 35.46, 'MonteCarlo': 94.09000000000002, 'main': 32.348}
+monte_carlo104.py
+{'initialize': 73.75, 'rand': 59.730000000000004, 'nextDouble': 35.46, 'MonteCarlo': 94.95000000000003, 'main': 31.918}
+monte_carlo105.py
+{'initialize': 73.75, 'rand': 59.730000000000004, 'nextDouble': 35.46, 'MonteCarlo': 94.52000000000002, 'main': 31.918}
+monte_carlo106.py
+{'initialize': 73.75, 'rand': 59.730000000000004, 'nextDouble': 42.86, 'MonteCarlo': 47.690000000000005, 'main': 32.348}
+monte_carlo107.py
+{'initialize': 73.75, 'rand': 59.730000000000004, 'nextDouble': 42.86, 'MonteCarlo': 48.550000000000004, 'main': 31.918}
+monte_carlo108.py
+{'initialize': 73.75, 'rand': 59.730000000000004, 'nextDouble': 42.86, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo109.py
+{'initialize': 73.75, 'rand': 59.730000000000004, 'nextDouble': 42.86, 'MonteCarlo': 47.690000000000005, 'main': 32.348}
+monte_carlo11.py
+{'initialize': 92.39000000000003, 'rand': 17.73, 'nextDouble': 42.86, 'MonteCarlo': 48.550000000000004, 'main': 31.918}
+monte_carlo110.py
+{'initialize': 73.75, 'rand': 59.730000000000004, 'nextDouble': 42.86, 'MonteCarlo': 48.550000000000004, 'main': 31.918}
+monte_carlo111.py
+{'initialize': 73.75, 'rand': 59.730000000000004, 'nextDouble': 42.86, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo112.py
+{'initialize': 73.75, 'rand': 59.730000000000004, 'nextDouble': 35.46, 'MonteCarlo': 94.09000000000002, 'main': 32.348}
+monte_carlo113.py
+{'initialize': 73.75, 'rand': 59.730000000000004, 'nextDouble': 35.46, 'MonteCarlo': 94.95000000000003, 'main': 31.918}
+monte_carlo114.py
+{'initialize': 73.75, 'rand': 59.730000000000004, 'nextDouble': 35.46, 'MonteCarlo': 94.52000000000002, 'main': 31.918}
+monte_carlo115.py
+{'initialize': 73.75, 'rand': 59.730000000000004, 'nextDouble': 84.86, 'MonteCarlo': 47.690000000000005, 'main': 32.348}
+monte_carlo116.py
+{'initialize': 73.75, 'rand': 59.730000000000004, 'nextDouble': 84.86, 'MonteCarlo': 48.550000000000004, 'main': 31.918}
+monte_carlo117.py
+{'initialize': 73.75, 'rand': 59.730000000000004, 'nextDouble': 84.86, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo118.py
+{'initialize': 73.75, 'rand': 59.730000000000004, 'nextDouble': 77.46, 'MonteCarlo': 94.09000000000002, 'main': 32.348}
+monte_carlo119.py
+{'initialize': 73.75, 'rand': 59.730000000000004, 'nextDouble': 77.46, 'MonteCarlo': 94.95000000000003, 'main': 31.918}
+monte_carlo12.py
+{'initialize': 92.39000000000003, 'rand': 17.73, 'nextDouble': 42.86, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo120.py
+{'initialize': 73.75, 'rand': 59.730000000000004, 'nextDouble': 77.46, 'MonteCarlo': 94.52000000000002, 'main': 31.918}
+monte_carlo121.py
+{'initialize': 73.75, 'rand': 60.16, 'nextDouble': 75.96, 'MonteCarlo': 47.260000000000005, 'main': 32.348}
+monte_carlo122.py
+{'initialize': 73.75, 'rand': 60.16, 'nextDouble': 75.96, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo123.py
+{'initialize': 73.75, 'rand': 60.16, 'nextDouble': 75.96, 'MonteCarlo': 47.690000000000005, 'main': 31.918}
+monte_carlo124.py
+{'initialize': 73.75, 'rand': 60.16, 'nextDouble': 83.36, 'MonteCarlo': 0.86, 'main': 32.348}
+monte_carlo125.py
+{'initialize': 73.75, 'rand': 60.16, 'nextDouble': 83.36, 'MonteCarlo': 1.72, 'main': 31.918}
+monte_carlo126.py
+{'initialize': 73.75, 'rand': 60.16, 'nextDouble': 83.36, 'MonteCarlo': 1.29, 'main': 31.918}
+monte_carlo127.py
+{'initialize': 73.75, 'rand': 60.16, 'nextDouble': 35.46, 'MonteCarlo': 93.66000000000001, 'main': 32.348}
+monte_carlo128.py
+{'initialize': 73.75, 'rand': 60.16, 'nextDouble': 35.46, 'MonteCarlo': 94.52000000000002, 'main': 31.918}
+monte_carlo129.py
+{'initialize': 73.75, 'rand': 60.16, 'nextDouble': 35.46, 'MonteCarlo': 94.09000000000002, 'main': 31.918}
+monte_carlo13.py
+{'initialize': 92.39000000000003, 'rand': 17.73, 'nextDouble': 42.86, 'MonteCarlo': 47.690000000000005, 'main': 32.348}
+monte_carlo130.py
+{'initialize': 73.75, 'rand': 60.16, 'nextDouble': 42.86, 'MonteCarlo': 47.260000000000005, 'main': 32.348}
+monte_carlo131.py
+{'initialize': 73.75, 'rand': 60.16, 'nextDouble': 42.86, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo132.py
+{'initialize': 73.75, 'rand': 60.16, 'nextDouble': 42.86, 'MonteCarlo': 47.690000000000005, 'main': 31.918}
+monte_carlo133.py
+{'initialize': 73.75, 'rand': 60.16, 'nextDouble': 42.86, 'MonteCarlo': 47.260000000000005, 'main': 32.348}
+monte_carlo134.py
+{'initialize': 73.75, 'rand': 60.16, 'nextDouble': 42.86, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo135.py
+{'initialize': 73.75, 'rand': 60.16, 'nextDouble': 42.86, 'MonteCarlo': 47.690000000000005, 'main': 31.918}
+monte_carlo136.py
+{'initialize': 73.75, 'rand': 60.16, 'nextDouble': 35.46, 'MonteCarlo': 93.66000000000001, 'main': 32.348}
+monte_carlo137.py
+{'initialize': 73.75, 'rand': 60.16, 'nextDouble': 35.46, 'MonteCarlo': 94.52000000000002, 'main': 31.918}
+monte_carlo138.py
+{'initialize': 73.75, 'rand': 60.16, 'nextDouble': 35.46, 'MonteCarlo': 94.09000000000002, 'main': 31.918}
+monte_carlo139.py
+{'initialize': 73.75, 'rand': 60.16, 'nextDouble': 84.86, 'MonteCarlo': 47.260000000000005, 'main': 32.348}
+monte_carlo14.py
+{'initialize': 92.39000000000003, 'rand': 17.73, 'nextDouble': 42.86, 'MonteCarlo': 48.550000000000004, 'main': 31.918}
+monte_carlo140.py
+{'initialize': 73.75, 'rand': 60.16, 'nextDouble': 84.86, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo141.py
+{'initialize': 73.75, 'rand': 60.16, 'nextDouble': 84.86, 'MonteCarlo': 47.690000000000005, 'main': 31.918}
+monte_carlo142.py
+{'initialize': 73.75, 'rand': 60.16, 'nextDouble': 77.46, 'MonteCarlo': 93.66000000000001, 'main': 32.348}
+monte_carlo143.py
+{'initialize': 73.75, 'rand': 60.16, 'nextDouble': 77.46, 'MonteCarlo': 94.52000000000002, 'main': 31.918}
+monte_carlo144.py
+{'initialize': 73.75, 'rand': 60.16, 'nextDouble': 77.46, 'MonteCarlo': 94.09000000000002, 'main': 31.918}
+monte_carlo145.py
+{'initialize': 73.75, 'rand': 42.43, 'nextDouble': 75.96, 'MonteCarlo': 64.99000000000001, 'main': 32.348}
+monte_carlo146.py
+{'initialize': 73.75, 'rand': 42.43, 'nextDouble': 75.96, 'MonteCarlo': 65.85000000000002, 'main': 31.918}
+monte_carlo147.py
+{'initialize': 73.75, 'rand': 42.43, 'nextDouble': 75.96, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo148.py
+{'initialize': 73.75, 'rand': 42.43, 'nextDouble': 83.36, 'MonteCarlo': 18.59, 'main': 32.348}
+monte_carlo149.py
+{'initialize': 73.75, 'rand': 42.43, 'nextDouble': 83.36, 'MonteCarlo': 19.45, 'main': 31.918}
+monte_carlo15.py
+{'initialize': 92.39000000000003, 'rand': 17.73, 'nextDouble': 42.86, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo150.py
+{'initialize': 73.75, 'rand': 42.43, 'nextDouble': 83.36, 'MonteCarlo': 19.02, 'main': 31.918}
+monte_carlo151.py
+{'initialize': 73.75, 'rand': 42.43, 'nextDouble': 35.46, 'MonteCarlo': 111.39000000000001, 'main': 32.348}
+monte_carlo152.py
+{'initialize': 73.75, 'rand': 42.43, 'nextDouble': 35.46, 'MonteCarlo': 112.25000000000003, 'main': 31.918}
+monte_carlo153.py
+{'initialize': 73.75, 'rand': 42.43, 'nextDouble': 35.46, 'MonteCarlo': 111.82000000000002, 'main': 31.918}
+monte_carlo154.py
+{'initialize': 73.75, 'rand': 42.43, 'nextDouble': 42.86, 'MonteCarlo': 64.99000000000001, 'main': 32.348}
+monte_carlo155.py
+{'initialize': 73.75, 'rand': 42.43, 'nextDouble': 42.86, 'MonteCarlo': 65.85000000000002, 'main': 31.918}
+monte_carlo156.py
+{'initialize': 73.75, 'rand': 42.43, 'nextDouble': 42.86, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo157.py
+{'initialize': 73.75, 'rand': 42.43, 'nextDouble': 42.86, 'MonteCarlo': 64.99000000000001, 'main': 32.348}
+monte_carlo158.py
+{'initialize': 73.75, 'rand': 42.43, 'nextDouble': 42.86, 'MonteCarlo': 65.85000000000002, 'main': 31.918}
+monte_carlo159.py
+{'initialize': 73.75, 'rand': 42.43, 'nextDouble': 42.86, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo16.py
+{'initialize': 92.39000000000003, 'rand': 17.73, 'nextDouble': 35.46, 'MonteCarlo': 94.09000000000002, 'main': 32.348}
+monte_carlo160.py
+{'initialize': 73.75, 'rand': 42.43, 'nextDouble': 35.46, 'MonteCarlo': 111.39000000000001, 'main': 32.348}
+monte_carlo161.py
+{'initialize': 73.75, 'rand': 42.43, 'nextDouble': 35.46, 'MonteCarlo': 112.25000000000003, 'main': 31.918}
+monte_carlo162.py
+{'initialize': 73.75, 'rand': 42.43, 'nextDouble': 35.46, 'MonteCarlo': 111.82000000000002, 'main': 31.918}
+monte_carlo163.py
+{'initialize': 73.75, 'rand': 42.43, 'nextDouble': 84.86, 'MonteCarlo': 64.99000000000001, 'main': 32.348}
+monte_carlo164.py
+{'initialize': 73.75, 'rand': 42.43, 'nextDouble': 84.86, 'MonteCarlo': 65.85000000000002, 'main': 31.918}
+monte_carlo165.py
+{'initialize': 73.75, 'rand': 42.43, 'nextDouble': 84.86, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo166.py
+{'initialize': 73.75, 'rand': 42.43, 'nextDouble': 77.46, 'MonteCarlo': 111.39000000000001, 'main': 32.348}
+monte_carlo167.py
+{'initialize': 73.75, 'rand': 42.43, 'nextDouble': 77.46, 'MonteCarlo': 112.25000000000003, 'main': 31.918}
+monte_carlo168.py
+{'initialize': 73.75, 'rand': 42.43, 'nextDouble': 77.46, 'MonteCarlo': 111.82000000000002, 'main': 31.918}
+monte_carlo169.py
+{'initialize': 73.75, 'rand': 42.86, 'nextDouble': 75.96, 'MonteCarlo': 64.56000000000002, 'main': 32.348}
+monte_carlo17.py
+{'initialize': 92.39000000000003, 'rand': 17.73, 'nextDouble': 35.46, 'MonteCarlo': 94.95000000000003, 'main': 31.918}
+monte_carlo170.py
+{'initialize': 73.75, 'rand': 42.86, 'nextDouble': 75.96, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo171.py
+{'initialize': 73.75, 'rand': 42.86, 'nextDouble': 75.96, 'MonteCarlo': 64.99000000000001, 'main': 31.918}
+monte_carlo172.py
+{'initialize': 73.75, 'rand': 42.86, 'nextDouble': 83.36, 'MonteCarlo': 18.16, 'main': 32.348}
+monte_carlo173.py
+{'initialize': 73.75, 'rand': 42.86, 'nextDouble': 83.36, 'MonteCarlo': 19.02, 'main': 31.918}
+monte_carlo174.py
+{'initialize': 73.75, 'rand': 42.86, 'nextDouble': 83.36, 'MonteCarlo': 18.59, 'main': 31.918}
+monte_carlo175.py
+{'initialize': 73.75, 'rand': 42.86, 'nextDouble': 35.46, 'MonteCarlo': 110.96000000000002, 'main': 32.348}
+monte_carlo176.py
+{'initialize': 73.75, 'rand': 42.86, 'nextDouble': 35.46, 'MonteCarlo': 111.82000000000002, 'main': 31.918}
+monte_carlo177.py
+{'initialize': 73.75, 'rand': 42.86, 'nextDouble': 35.46, 'MonteCarlo': 111.39000000000001, 'main': 31.918}
+monte_carlo178.py
+{'initialize': 73.75, 'rand': 42.86, 'nextDouble': 42.86, 'MonteCarlo': 64.56000000000002, 'main': 32.348}
+monte_carlo179.py
+{'initialize': 73.75, 'rand': 42.86, 'nextDouble': 42.86, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo18.py
+{'initialize': 92.39000000000003, 'rand': 17.73, 'nextDouble': 35.46, 'MonteCarlo': 94.52000000000002, 'main': 31.918}
+monte_carlo180.py
+{'initialize': 73.75, 'rand': 42.86, 'nextDouble': 42.86, 'MonteCarlo': 64.99000000000001, 'main': 31.918}
+monte_carlo181.py
+{'initialize': 73.75, 'rand': 42.86, 'nextDouble': 42.86, 'MonteCarlo': 64.56000000000002, 'main': 32.348}
+monte_carlo182.py
+{'initialize': 73.75, 'rand': 42.86, 'nextDouble': 42.86, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo183.py
+{'initialize': 73.75, 'rand': 42.86, 'nextDouble': 42.86, 'MonteCarlo': 64.99000000000001, 'main': 31.918}
+monte_carlo184.py
+{'initialize': 73.75, 'rand': 42.86, 'nextDouble': 35.46, 'MonteCarlo': 110.96000000000002, 'main': 32.348}
+monte_carlo185.py
+{'initialize': 73.75, 'rand': 42.86, 'nextDouble': 35.46, 'MonteCarlo': 111.82000000000002, 'main': 31.918}
+monte_carlo186.py
+{'initialize': 73.75, 'rand': 42.86, 'nextDouble': 35.46, 'MonteCarlo': 111.39000000000001, 'main': 31.918}
+monte_carlo187.py
+{'initialize': 73.75, 'rand': 42.86, 'nextDouble': 84.86, 'MonteCarlo': 64.56000000000002, 'main': 32.348}
+monte_carlo188.py
+{'initialize': 73.75, 'rand': 42.86, 'nextDouble': 84.86, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo189.py
+{'initialize': 73.75, 'rand': 42.86, 'nextDouble': 84.86, 'MonteCarlo': 64.99000000000001, 'main': 31.918}
+monte_carlo19.py
+{'initialize': 92.39000000000003, 'rand': 17.73, 'nextDouble': 84.86, 'MonteCarlo': 47.690000000000005, 'main': 32.348}
+monte_carlo190.py
+{'initialize': 73.75, 'rand': 42.86, 'nextDouble': 77.46, 'MonteCarlo': 110.96000000000002, 'main': 32.348}
+monte_carlo191.py
+{'initialize': 73.75, 'rand': 42.86, 'nextDouble': 77.46, 'MonteCarlo': 111.82000000000002, 'main': 31.918}
+monte_carlo192.py
+{'initialize': 73.75, 'rand': 42.86, 'nextDouble': 77.46, 'MonteCarlo': 111.39000000000001, 'main': 31.918}
+monte_carlo193.py
+{'initialize': 76.93700000000003, 'rand': 56.587, 'nextDouble': 75.96, 'MonteCarlo': 47.690000000000005, 'main': 32.348}
+monte_carlo194.py
+{'initialize': 76.93700000000003, 'rand': 56.587, 'nextDouble': 75.96, 'MonteCarlo': 48.550000000000004, 'main': 31.918}
+monte_carlo195.py
+{'initialize': 76.93700000000003, 'rand': 56.587, 'nextDouble': 75.96, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo196.py
+{'initialize': 76.93700000000003, 'rand': 56.587, 'nextDouble': 83.36, 'MonteCarlo': 1.29, 'main': 32.348}
+monte_carlo197.py
+{'initialize': 76.93700000000003, 'rand': 56.587, 'nextDouble': 83.36, 'MonteCarlo': 2.15, 'main': 31.918}
+monte_carlo198.py
+{'initialize': 76.93700000000003, 'rand': 56.587, 'nextDouble': 83.36, 'MonteCarlo': 1.72, 'main': 31.918}
+monte_carlo199.py
+{'initialize': 76.93700000000003, 'rand': 56.587, 'nextDouble': 35.46, 'MonteCarlo': 94.09000000000002, 'main': 32.348}
+monte_carlo2.py
+{'initialize': 92.39000000000003, 'rand': 17.73, 'nextDouble': 75.96, 'MonteCarlo': 48.550000000000004, 'main': 31.918}
+monte_carlo20.py
+{'initialize': 92.39000000000003, 'rand': 17.73, 'nextDouble': 84.86, 'MonteCarlo': 48.550000000000004, 'main': 31.918}
+monte_carlo200.py
+{'initialize': 76.93700000000003, 'rand': 56.587, 'nextDouble': 35.46, 'MonteCarlo': 94.95000000000003, 'main': 31.918}
+monte_carlo201.py
+{'initialize': 76.93700000000003, 'rand': 56.587, 'nextDouble': 35.46, 'MonteCarlo': 94.52000000000002, 'main': 31.918}
+monte_carlo202.py
+{'initialize': 76.93700000000003, 'rand': 56.587, 'nextDouble': 42.86, 'MonteCarlo': 47.690000000000005, 'main': 32.348}
+monte_carlo203.py
+{'initialize': 76.93700000000003, 'rand': 56.587, 'nextDouble': 42.86, 'MonteCarlo': 48.550000000000004, 'main': 31.918}
+monte_carlo204.py
+{'initialize': 76.93700000000003, 'rand': 56.587, 'nextDouble': 42.86, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo205.py
+{'initialize': 76.93700000000003, 'rand': 56.587, 'nextDouble': 42.86, 'MonteCarlo': 47.690000000000005, 'main': 32.348}
+monte_carlo206.py
+{'initialize': 76.93700000000003, 'rand': 56.587, 'nextDouble': 42.86, 'MonteCarlo': 48.550000000000004, 'main': 31.918}
+monte_carlo207.py
+{'initialize': 76.93700000000003, 'rand': 56.587, 'nextDouble': 42.86, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo208.py
+{'initialize': 76.93700000000003, 'rand': 56.587, 'nextDouble': 35.46, 'MonteCarlo': 94.09000000000002, 'main': 32.348}
+monte_carlo209.py
+{'initialize': 76.93700000000003, 'rand': 56.587, 'nextDouble': 35.46, 'MonteCarlo': 94.95000000000003, 'main': 31.918}
+monte_carlo21.py
+{'initialize': 92.39000000000003, 'rand': 17.73, 'nextDouble': 84.86, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo210.py
+{'initialize': 76.93700000000003, 'rand': 56.587, 'nextDouble': 35.46, 'MonteCarlo': 94.52000000000002, 'main': 31.918}
+monte_carlo211.py
+{'initialize': 76.93700000000003, 'rand': 56.587, 'nextDouble': 84.86, 'MonteCarlo': 47.690000000000005, 'main': 32.348}
+monte_carlo212.py
+{'initialize': 76.93700000000003, 'rand': 56.587, 'nextDouble': 84.86, 'MonteCarlo': 48.550000000000004, 'main': 31.918}
+monte_carlo213.py
+{'initialize': 76.93700000000003, 'rand': 56.587, 'nextDouble': 84.86, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo214.py
+{'initialize': 76.93700000000003, 'rand': 56.587, 'nextDouble': 77.46, 'MonteCarlo': 94.09000000000002, 'main': 32.348}
+monte_carlo215.py
+{'initialize': 76.93700000000003, 'rand': 56.587, 'nextDouble': 77.46, 'MonteCarlo': 94.95000000000003, 'main': 31.918}
+monte_carlo216.py
+{'initialize': 76.93700000000003, 'rand': 56.587, 'nextDouble': 77.46, 'MonteCarlo': 94.52000000000002, 'main': 31.918}
+monte_carlo217.py
+{'initialize': 76.93700000000003, 'rand': 56.03, 'nextDouble': 75.96, 'MonteCarlo': 47.260000000000005, 'main': 32.348}
+monte_carlo218.py
+{'initialize': 76.93700000000003, 'rand': 56.03, 'nextDouble': 75.96, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo219.py
+{'initialize': 76.93700000000003, 'rand': 56.03, 'nextDouble': 75.96, 'MonteCarlo': 47.690000000000005, 'main': 31.918}
+monte_carlo22.py
+{'initialize': 92.39000000000003, 'rand': 17.73, 'nextDouble': 77.46, 'MonteCarlo': 94.09000000000002, 'main': 32.348}
+monte_carlo220.py
+{'initialize': 76.93700000000003, 'rand': 56.03, 'nextDouble': 83.36, 'MonteCarlo': 0.86, 'main': 32.348}
+monte_carlo221.py
+{'initialize': 76.93700000000003, 'rand': 56.03, 'nextDouble': 83.36, 'MonteCarlo': 1.72, 'main': 31.918}
+monte_carlo222.py
+{'initialize': 76.93700000000003, 'rand': 56.03, 'nextDouble': 83.36, 'MonteCarlo': 1.29, 'main': 31.918}
+monte_carlo223.py
+{'initialize': 76.93700000000003, 'rand': 56.03, 'nextDouble': 35.46, 'MonteCarlo': 93.66000000000001, 'main': 32.348}
+monte_carlo224.py
+{'initialize': 76.93700000000003, 'rand': 56.03, 'nextDouble': 35.46, 'MonteCarlo': 94.52000000000002, 'main': 31.918}
+monte_carlo225.py
+{'initialize': 76.93700000000003, 'rand': 56.03, 'nextDouble': 35.46, 'MonteCarlo': 94.09000000000002, 'main': 31.918}
+monte_carlo226.py
+{'initialize': 76.93700000000003, 'rand': 56.03, 'nextDouble': 42.86, 'MonteCarlo': 47.260000000000005, 'main': 32.348}
+monte_carlo227.py
+{'initialize': 76.93700000000003, 'rand': 56.03, 'nextDouble': 42.86, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo228.py
+{'initialize': 76.93700000000003, 'rand': 56.03, 'nextDouble': 42.86, 'MonteCarlo': 47.690000000000005, 'main': 31.918}
+monte_carlo229.py
+{'initialize': 76.93700000000003, 'rand': 56.03, 'nextDouble': 42.86, 'MonteCarlo': 47.260000000000005, 'main': 32.348}
+monte_carlo23.py
+{'initialize': 92.39000000000003, 'rand': 17.73, 'nextDouble': 77.46, 'MonteCarlo': 94.95000000000003, 'main': 31.918}
+monte_carlo230.py
+{'initialize': 76.93700000000003, 'rand': 56.03, 'nextDouble': 42.86, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo231.py
+{'initialize': 76.93700000000003, 'rand': 56.03, 'nextDouble': 42.86, 'MonteCarlo': 47.690000000000005, 'main': 31.918}
+monte_carlo232.py
+{'initialize': 76.93700000000003, 'rand': 56.03, 'nextDouble': 35.46, 'MonteCarlo': 93.66000000000001, 'main': 32.348}
+monte_carlo233.py
+{'initialize': 76.93700000000003, 'rand': 56.03, 'nextDouble': 35.46, 'MonteCarlo': 94.52000000000002, 'main': 31.918}
+monte_carlo234.py
+{'initialize': 76.93700000000003, 'rand': 56.03, 'nextDouble': 35.46, 'MonteCarlo': 94.09000000000002, 'main': 31.918}
+monte_carlo235.py
+{'initialize': 76.93700000000003, 'rand': 56.03, 'nextDouble': 84.86, 'MonteCarlo': 47.260000000000005, 'main': 32.348}
+monte_carlo236.py
+{'initialize': 76.93700000000003, 'rand': 56.03, 'nextDouble': 84.86, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo237.py
+{'initialize': 76.93700000000003, 'rand': 56.03, 'nextDouble': 84.86, 'MonteCarlo': 47.690000000000005, 'main': 31.918}
+monte_carlo238.py
+{'initialize': 76.93700000000003, 'rand': 56.03, 'nextDouble': 77.46, 'MonteCarlo': 93.66000000000001, 'main': 32.348}
+monte_carlo239.py
+{'initialize': 76.93700000000003, 'rand': 56.03, 'nextDouble': 77.46, 'MonteCarlo': 94.52000000000002, 'main': 31.918}
+monte_carlo24.py
+{'initialize': 92.39000000000003, 'rand': 17.73, 'nextDouble': 77.46, 'MonteCarlo': 94.52000000000002, 'main': 31.918}
+monte_carlo240.py
+{'initialize': 76.93700000000003, 'rand': 56.03, 'nextDouble': 77.46, 'MonteCarlo': 94.09000000000002, 'main': 31.918}
+monte_carlo241.py
+{'initialize': 76.93700000000003, 'rand': 39.287000000000006, 'nextDouble': 75.96, 'MonteCarlo': 64.99000000000001, 'main': 32.348}
+monte_carlo242.py
+{'initialize': 76.93700000000003, 'rand': 39.287000000000006, 'nextDouble': 75.96, 'MonteCarlo': 65.85000000000002, 'main': 31.918}
+monte_carlo243.py
+{'initialize': 76.93700000000003, 'rand': 39.287000000000006, 'nextDouble': 75.96, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo244.py
+{'initialize': 76.93700000000003, 'rand': 39.287000000000006, 'nextDouble': 83.36, 'MonteCarlo': 18.59, 'main': 32.348}
+monte_carlo245.py
+{'initialize': 76.93700000000003, 'rand': 39.287000000000006, 'nextDouble': 83.36, 'MonteCarlo': 19.45, 'main': 31.918}
+monte_carlo246.py
+{'initialize': 76.93700000000003, 'rand': 39.287000000000006, 'nextDouble': 83.36, 'MonteCarlo': 19.02, 'main': 31.918}
+monte_carlo247.py
+{'initialize': 76.93700000000003, 'rand': 39.287000000000006, 'nextDouble': 35.46, 'MonteCarlo': 111.39000000000001, 'main': 32.348}
+monte_carlo248.py
+{'initialize': 76.93700000000003, 'rand': 39.287000000000006, 'nextDouble': 35.46, 'MonteCarlo': 112.25000000000003, 'main': 31.918}
+monte_carlo249.py
+{'initialize': 76.93700000000003, 'rand': 39.287000000000006, 'nextDouble': 35.46, 'MonteCarlo': 111.82000000000002, 'main': 31.918}
+monte_carlo25.py
+{'initialize': 92.39000000000003, 'rand': 18.16, 'nextDouble': 75.96, 'MonteCarlo': 47.260000000000005, 'main': 32.348}
+monte_carlo250.py
+{'initialize': 76.93700000000003, 'rand': 39.287000000000006, 'nextDouble': 42.86, 'MonteCarlo': 64.99000000000001, 'main': 32.348}
+monte_carlo251.py
+{'initialize': 76.93700000000003, 'rand': 39.287000000000006, 'nextDouble': 42.86, 'MonteCarlo': 65.85000000000002, 'main': 31.918}
+monte_carlo252.py
+{'initialize': 76.93700000000003, 'rand': 39.287000000000006, 'nextDouble': 42.86, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo253.py
+{'initialize': 76.93700000000003, 'rand': 39.287000000000006, 'nextDouble': 42.86, 'MonteCarlo': 64.99000000000001, 'main': 32.348}
+monte_carlo254.py
+{'initialize': 76.93700000000003, 'rand': 39.287000000000006, 'nextDouble': 42.86, 'MonteCarlo': 65.85000000000002, 'main': 31.918}
+monte_carlo255.py
+{'initialize': 76.93700000000003, 'rand': 39.287000000000006, 'nextDouble': 42.86, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo256.py
+{'initialize': 76.93700000000003, 'rand': 39.287000000000006, 'nextDouble': 35.46, 'MonteCarlo': 111.39000000000001, 'main': 32.348}
+monte_carlo257.py
+{'initialize': 76.93700000000003, 'rand': 39.287000000000006, 'nextDouble': 35.46, 'MonteCarlo': 112.25000000000003, 'main': 31.918}
+monte_carlo258.py
+{'initialize': 76.93700000000003, 'rand': 39.287000000000006, 'nextDouble': 35.46, 'MonteCarlo': 111.82000000000002, 'main': 31.918}
+monte_carlo259.py
+{'initialize': 76.93700000000003, 'rand': 39.287000000000006, 'nextDouble': 84.86, 'MonteCarlo': 64.99000000000001, 'main': 32.348}
+monte_carlo26.py
+{'initialize': 92.39000000000003, 'rand': 18.16, 'nextDouble': 75.96, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo260.py
+{'initialize': 76.93700000000003, 'rand': 39.287000000000006, 'nextDouble': 84.86, 'MonteCarlo': 65.85000000000002, 'main': 31.918}
+monte_carlo261.py
+{'initialize': 76.93700000000003, 'rand': 39.287000000000006, 'nextDouble': 84.86, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo262.py
+{'initialize': 76.93700000000003, 'rand': 39.287000000000006, 'nextDouble': 77.46, 'MonteCarlo': 111.39000000000001, 'main': 32.348}
+monte_carlo263.py
+{'initialize': 76.93700000000003, 'rand': 39.287000000000006, 'nextDouble': 77.46, 'MonteCarlo': 112.25000000000003, 'main': 31.918}
+monte_carlo264.py
+{'initialize': 76.93700000000003, 'rand': 39.287000000000006, 'nextDouble': 77.46, 'MonteCarlo': 111.82000000000002, 'main': 31.918}
+monte_carlo265.py
+{'initialize': 76.93700000000003, 'rand': 38.730000000000004, 'nextDouble': 75.96, 'MonteCarlo': 64.56000000000002, 'main': 32.348}
+monte_carlo266.py
+{'initialize': 76.93700000000003, 'rand': 38.730000000000004, 'nextDouble': 75.96, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo267.py
+{'initialize': 76.93700000000003, 'rand': 38.730000000000004, 'nextDouble': 75.96, 'MonteCarlo': 64.99000000000001, 'main': 31.918}
+monte_carlo268.py
+{'initialize': 76.93700000000003, 'rand': 38.730000000000004, 'nextDouble': 83.36, 'MonteCarlo': 18.16, 'main': 32.348}
+monte_carlo269.py
+{'initialize': 76.93700000000003, 'rand': 38.730000000000004, 'nextDouble': 83.36, 'MonteCarlo': 19.02, 'main': 31.918}
+monte_carlo27.py
+{'initialize': 92.39000000000003, 'rand': 18.16, 'nextDouble': 75.96, 'MonteCarlo': 47.690000000000005, 'main': 31.918}
+monte_carlo270.py
+{'initialize': 76.93700000000003, 'rand': 38.730000000000004, 'nextDouble': 83.36, 'MonteCarlo': 18.59, 'main': 31.918}
+monte_carlo271.py
+{'initialize': 76.93700000000003, 'rand': 38.730000000000004, 'nextDouble': 35.46, 'MonteCarlo': 110.96000000000002, 'main': 32.348}
+monte_carlo272.py
+{'initialize': 76.93700000000003, 'rand': 38.730000000000004, 'nextDouble': 35.46, 'MonteCarlo': 111.82000000000002, 'main': 31.918}
+monte_carlo273.py
+{'initialize': 76.93700000000003, 'rand': 38.730000000000004, 'nextDouble': 35.46, 'MonteCarlo': 111.39000000000001, 'main': 31.918}
+monte_carlo274.py
+{'initialize': 76.93700000000003, 'rand': 38.730000000000004, 'nextDouble': 42.86, 'MonteCarlo': 64.56000000000002, 'main': 32.348}
+monte_carlo275.py
+{'initialize': 76.93700000000003, 'rand': 38.730000000000004, 'nextDouble': 42.86, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo276.py
+{'initialize': 76.93700000000003, 'rand': 38.730000000000004, 'nextDouble': 42.86, 'MonteCarlo': 64.99000000000001, 'main': 31.918}
+monte_carlo277.py
+{'initialize': 76.93700000000003, 'rand': 38.730000000000004, 'nextDouble': 42.86, 'MonteCarlo': 64.56000000000002, 'main': 32.348}
+monte_carlo278.py
+{'initialize': 76.93700000000003, 'rand': 38.730000000000004, 'nextDouble': 42.86, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo279.py
+{'initialize': 76.93700000000003, 'rand': 38.730000000000004, 'nextDouble': 42.86, 'MonteCarlo': 64.99000000000001, 'main': 31.918}
+monte_carlo28.py
+{'initialize': 92.39000000000003, 'rand': 18.16, 'nextDouble': 83.36, 'MonteCarlo': 0.86, 'main': 32.348}
+monte_carlo280.py
+{'initialize': 76.93700000000003, 'rand': 38.730000000000004, 'nextDouble': 35.46, 'MonteCarlo': 110.96000000000002, 'main': 32.348}
+monte_carlo281.py
+{'initialize': 76.93700000000003, 'rand': 38.730000000000004, 'nextDouble': 35.46, 'MonteCarlo': 111.82000000000002, 'main': 31.918}
+monte_carlo282.py
+{'initialize': 76.93700000000003, 'rand': 38.730000000000004, 'nextDouble': 35.46, 'MonteCarlo': 111.39000000000001, 'main': 31.918}
+monte_carlo283.py
+{'initialize': 76.93700000000003, 'rand': 38.730000000000004, 'nextDouble': 84.86, 'MonteCarlo': 64.56000000000002, 'main': 32.348}
+monte_carlo284.py
+{'initialize': 76.93700000000003, 'rand': 38.730000000000004, 'nextDouble': 84.86, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo285.py
+{'initialize': 76.93700000000003, 'rand': 38.730000000000004, 'nextDouble': 84.86, 'MonteCarlo': 64.99000000000001, 'main': 31.918}
+monte_carlo286.py
+{'initialize': 76.93700000000003, 'rand': 38.730000000000004, 'nextDouble': 77.46, 'MonteCarlo': 110.96000000000002, 'main': 32.348}
+monte_carlo287.py
+{'initialize': 76.93700000000003, 'rand': 38.730000000000004, 'nextDouble': 77.46, 'MonteCarlo': 111.82000000000002, 'main': 31.918}
+monte_carlo288.py
+{'initialize': 76.93700000000003, 'rand': 38.730000000000004, 'nextDouble': 77.46, 'MonteCarlo': 111.39000000000001, 'main': 31.918}
+monte_carlo289.py
+{'initialize': 75.597, 'rand': 60.287000000000006, 'nextDouble': 75.96, 'MonteCarlo': 47.690000000000005, 'main': 32.348}
+monte_carlo29.py
+{'initialize': 92.39000000000003, 'rand': 18.16, 'nextDouble': 83.36, 'MonteCarlo': 1.72, 'main': 31.918}
+monte_carlo290.py
+{'initialize': 75.597, 'rand': 60.287000000000006, 'nextDouble': 75.96, 'MonteCarlo': 48.550000000000004, 'main': 31.918}
+monte_carlo291.py
+{'initialize': 75.597, 'rand': 60.287000000000006, 'nextDouble': 75.96, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo292.py
+{'initialize': 75.597, 'rand': 60.287000000000006, 'nextDouble': 83.36, 'MonteCarlo': 1.29, 'main': 32.348}
+monte_carlo293.py
+{'initialize': 75.597, 'rand': 60.287000000000006, 'nextDouble': 83.36, 'MonteCarlo': 2.15, 'main': 31.918}
+monte_carlo294.py
+{'initialize': 75.597, 'rand': 60.287000000000006, 'nextDouble': 83.36, 'MonteCarlo': 1.72, 'main': 31.918}
+monte_carlo295.py
+{'initialize': 75.597, 'rand': 60.287000000000006, 'nextDouble': 35.46, 'MonteCarlo': 94.09000000000002, 'main': 32.348}
+monte_carlo296.py
+{'initialize': 75.597, 'rand': 60.287000000000006, 'nextDouble': 35.46, 'MonteCarlo': 94.95000000000003, 'main': 31.918}
+monte_carlo297.py
+{'initialize': 75.597, 'rand': 60.287000000000006, 'nextDouble': 35.46, 'MonteCarlo': 94.52000000000002, 'main': 31.918}
+monte_carlo298.py
+{'initialize': 75.597, 'rand': 60.287000000000006, 'nextDouble': 42.86, 'MonteCarlo': 47.690000000000005, 'main': 32.348}
+monte_carlo299.py
+{'initialize': 75.597, 'rand': 60.287000000000006, 'nextDouble': 42.86, 'MonteCarlo': 48.550000000000004, 'main': 31.918}
+monte_carlo3.py
+{'initialize': 92.39000000000003, 'rand': 17.73, 'nextDouble': 75.96, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo30.py
+{'initialize': 92.39000000000003, 'rand': 18.16, 'nextDouble': 83.36, 'MonteCarlo': 1.29, 'main': 31.918}
+monte_carlo300.py
+{'initialize': 75.597, 'rand': 60.287000000000006, 'nextDouble': 42.86, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo301.py
+{'initialize': 75.597, 'rand': 60.287000000000006, 'nextDouble': 42.86, 'MonteCarlo': 47.690000000000005, 'main': 32.348}
+monte_carlo302.py
+{'initialize': 75.597, 'rand': 60.287000000000006, 'nextDouble': 42.86, 'MonteCarlo': 48.550000000000004, 'main': 31.918}
+monte_carlo303.py
+{'initialize': 75.597, 'rand': 60.287000000000006, 'nextDouble': 42.86, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo304.py
+{'initialize': 75.597, 'rand': 60.287000000000006, 'nextDouble': 35.46, 'MonteCarlo': 94.09000000000002, 'main': 32.348}
+monte_carlo305.py
+{'initialize': 75.597, 'rand': 60.287000000000006, 'nextDouble': 35.46, 'MonteCarlo': 94.95000000000003, 'main': 31.918}
+monte_carlo306.py
+{'initialize': 75.597, 'rand': 60.287000000000006, 'nextDouble': 35.46, 'MonteCarlo': 94.52000000000002, 'main': 31.918}
+monte_carlo307.py
+{'initialize': 75.597, 'rand': 60.287000000000006, 'nextDouble': 84.86, 'MonteCarlo': 47.690000000000005, 'main': 32.348}
+monte_carlo308.py
+{'initialize': 75.597, 'rand': 60.287000000000006, 'nextDouble': 84.86, 'MonteCarlo': 48.550000000000004, 'main': 31.918}
+monte_carlo309.py
+{'initialize': 75.597, 'rand': 60.287000000000006, 'nextDouble': 84.86, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo31.py
+{'initialize': 92.39000000000003, 'rand': 18.16, 'nextDouble': 35.46, 'MonteCarlo': 93.66000000000001, 'main': 32.348}
+monte_carlo310.py
+{'initialize': 75.597, 'rand': 60.287000000000006, 'nextDouble': 77.46, 'MonteCarlo': 94.09000000000002, 'main': 32.348}
+monte_carlo311.py
+{'initialize': 75.597, 'rand': 60.287000000000006, 'nextDouble': 77.46, 'MonteCarlo': 94.95000000000003, 'main': 31.918}
+monte_carlo312.py
+{'initialize': 75.597, 'rand': 60.287000000000006, 'nextDouble': 77.46, 'MonteCarlo': 94.52000000000002, 'main': 31.918}
+monte_carlo313.py
+{'initialize': 75.597, 'rand': 59.730000000000004, 'nextDouble': 75.96, 'MonteCarlo': 47.260000000000005, 'main': 32.348}
+monte_carlo314.py
+{'initialize': 75.597, 'rand': 59.730000000000004, 'nextDouble': 75.96, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo315.py
+{'initialize': 75.597, 'rand': 59.730000000000004, 'nextDouble': 75.96, 'MonteCarlo': 47.690000000000005, 'main': 31.918}
+monte_carlo316.py
+{'initialize': 75.597, 'rand': 59.730000000000004, 'nextDouble': 83.36, 'MonteCarlo': 0.86, 'main': 32.348}
+monte_carlo317.py
+{'initialize': 75.597, 'rand': 59.730000000000004, 'nextDouble': 83.36, 'MonteCarlo': 1.72, 'main': 31.918}
+monte_carlo318.py
+{'initialize': 75.597, 'rand': 59.730000000000004, 'nextDouble': 83.36, 'MonteCarlo': 1.29, 'main': 31.918}
+monte_carlo319.py
+{'initialize': 75.597, 'rand': 59.730000000000004, 'nextDouble': 35.46, 'MonteCarlo': 93.66000000000001, 'main': 32.348}
+monte_carlo32.py
+{'initialize': 92.39000000000003, 'rand': 18.16, 'nextDouble': 35.46, 'MonteCarlo': 94.52000000000002, 'main': 31.918}
+monte_carlo320.py
+{'initialize': 75.597, 'rand': 59.730000000000004, 'nextDouble': 35.46, 'MonteCarlo': 94.52000000000002, 'main': 31.918}
+monte_carlo321.py
+{'initialize': 75.597, 'rand': 59.730000000000004, 'nextDouble': 35.46, 'MonteCarlo': 94.09000000000002, 'main': 31.918}
+monte_carlo322.py
+{'initialize': 75.597, 'rand': 59.730000000000004, 'nextDouble': 42.86, 'MonteCarlo': 47.260000000000005, 'main': 32.348}
+monte_carlo323.py
+{'initialize': 75.597, 'rand': 59.730000000000004, 'nextDouble': 42.86, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo324.py
+{'initialize': 75.597, 'rand': 59.730000000000004, 'nextDouble': 42.86, 'MonteCarlo': 47.690000000000005, 'main': 31.918}
+monte_carlo325.py
+{'initialize': 75.597, 'rand': 59.730000000000004, 'nextDouble': 42.86, 'MonteCarlo': 47.260000000000005, 'main': 32.348}
+monte_carlo326.py
+{'initialize': 75.597, 'rand': 59.730000000000004, 'nextDouble': 42.86, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo327.py
+{'initialize': 75.597, 'rand': 59.730000000000004, 'nextDouble': 42.86, 'MonteCarlo': 47.690000000000005, 'main': 31.918}
+monte_carlo328.py
+{'initialize': 75.597, 'rand': 59.730000000000004, 'nextDouble': 35.46, 'MonteCarlo': 93.66000000000001, 'main': 32.348}
+monte_carlo329.py
+{'initialize': 75.597, 'rand': 59.730000000000004, 'nextDouble': 35.46, 'MonteCarlo': 94.52000000000002, 'main': 31.918}
+monte_carlo33.py
+{'initialize': 92.39000000000003, 'rand': 18.16, 'nextDouble': 35.46, 'MonteCarlo': 94.09000000000002, 'main': 31.918}
+monte_carlo330.py
+{'initialize': 75.597, 'rand': 59.730000000000004, 'nextDouble': 35.46, 'MonteCarlo': 94.09000000000002, 'main': 31.918}
+monte_carlo331.py
+{'initialize': 75.597, 'rand': 59.730000000000004, 'nextDouble': 84.86, 'MonteCarlo': 47.260000000000005, 'main': 32.348}
+monte_carlo332.py
+{'initialize': 75.597, 'rand': 59.730000000000004, 'nextDouble': 84.86, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo333.py
+{'initialize': 75.597, 'rand': 59.730000000000004, 'nextDouble': 84.86, 'MonteCarlo': 47.690000000000005, 'main': 31.918}
+monte_carlo334.py
+{'initialize': 75.597, 'rand': 59.730000000000004, 'nextDouble': 77.46, 'MonteCarlo': 93.66000000000001, 'main': 32.348}
+monte_carlo335.py
+{'initialize': 75.597, 'rand': 59.730000000000004, 'nextDouble': 77.46, 'MonteCarlo': 94.52000000000002, 'main': 31.918}
+monte_carlo336.py
+{'initialize': 75.597, 'rand': 59.730000000000004, 'nextDouble': 77.46, 'MonteCarlo': 94.09000000000002, 'main': 31.918}
+monte_carlo337.py
+{'initialize': 75.597, 'rand': 42.987, 'nextDouble': 75.96, 'MonteCarlo': 64.99000000000001, 'main': 32.348}
+monte_carlo338.py
+{'initialize': 75.597, 'rand': 42.987, 'nextDouble': 75.96, 'MonteCarlo': 65.85000000000002, 'main': 31.918}
+monte_carlo339.py
+{'initialize': 75.597, 'rand': 42.987, 'nextDouble': 75.96, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo34.py
+{'initialize': 92.39000000000003, 'rand': 18.16, 'nextDouble': 42.86, 'MonteCarlo': 47.260000000000005, 'main': 32.348}
+monte_carlo340.py
+{'initialize': 75.597, 'rand': 42.987, 'nextDouble': 83.36, 'MonteCarlo': 18.59, 'main': 32.348}
+monte_carlo341.py
+{'initialize': 75.597, 'rand': 42.987, 'nextDouble': 83.36, 'MonteCarlo': 19.45, 'main': 31.918}
+monte_carlo342.py
+{'initialize': 75.597, 'rand': 42.987, 'nextDouble': 83.36, 'MonteCarlo': 19.02, 'main': 31.918}
+monte_carlo343.py
+{'initialize': 75.597, 'rand': 42.987, 'nextDouble': 35.46, 'MonteCarlo': 111.39000000000001, 'main': 32.348}
+monte_carlo344.py
+{'initialize': 75.597, 'rand': 42.987, 'nextDouble': 35.46, 'MonteCarlo': 112.25000000000003, 'main': 31.918}
+monte_carlo345.py
+{'initialize': 75.597, 'rand': 42.987, 'nextDouble': 35.46, 'MonteCarlo': 111.82000000000002, 'main': 31.918}
+monte_carlo346.py
+{'initialize': 75.597, 'rand': 42.987, 'nextDouble': 42.86, 'MonteCarlo': 64.99000000000001, 'main': 32.348}
+monte_carlo347.py
+{'initialize': 75.597, 'rand': 42.987, 'nextDouble': 42.86, 'MonteCarlo': 65.85000000000002, 'main': 31.918}
+monte_carlo348.py
+{'initialize': 75.597, 'rand': 42.987, 'nextDouble': 42.86, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo349.py
+{'initialize': 75.597, 'rand': 42.987, 'nextDouble': 42.86, 'MonteCarlo': 64.99000000000001, 'main': 32.348}
+monte_carlo35.py
+{'initialize': 92.39000000000003, 'rand': 18.16, 'nextDouble': 42.86, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo350.py
+{'initialize': 75.597, 'rand': 42.987, 'nextDouble': 42.86, 'MonteCarlo': 65.85000000000002, 'main': 31.918}
+monte_carlo351.py
+{'initialize': 75.597, 'rand': 42.987, 'nextDouble': 42.86, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo352.py
+{'initialize': 75.597, 'rand': 42.987, 'nextDouble': 35.46, 'MonteCarlo': 111.39000000000001, 'main': 32.348}
+monte_carlo353.py
+{'initialize': 75.597, 'rand': 42.987, 'nextDouble': 35.46, 'MonteCarlo': 112.25000000000003, 'main': 31.918}
+monte_carlo354.py
+{'initialize': 75.597, 'rand': 42.987, 'nextDouble': 35.46, 'MonteCarlo': 111.82000000000002, 'main': 31.918}
+monte_carlo355.py
+{'initialize': 75.597, 'rand': 42.987, 'nextDouble': 84.86, 'MonteCarlo': 64.99000000000001, 'main': 32.348}
+monte_carlo356.py
+{'initialize': 75.597, 'rand': 42.987, 'nextDouble': 84.86, 'MonteCarlo': 65.85000000000002, 'main': 31.918}
+monte_carlo357.py
+{'initialize': 75.597, 'rand': 42.987, 'nextDouble': 84.86, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo358.py
+{'initialize': 75.597, 'rand': 42.987, 'nextDouble': 77.46, 'MonteCarlo': 111.39000000000001, 'main': 32.348}
+monte_carlo359.py
+{'initialize': 75.597, 'rand': 42.987, 'nextDouble': 77.46, 'MonteCarlo': 112.25000000000003, 'main': 31.918}
+monte_carlo36.py
+{'initialize': 92.39000000000003, 'rand': 18.16, 'nextDouble': 42.86, 'MonteCarlo': 47.690000000000005, 'main': 31.918}
+monte_carlo360.py
+{'initialize': 75.597, 'rand': 42.987, 'nextDouble': 77.46, 'MonteCarlo': 111.82000000000002, 'main': 31.918}
+monte_carlo361.py
+{'initialize': 75.597, 'rand': 42.43, 'nextDouble': 75.96, 'MonteCarlo': 64.56000000000002, 'main': 32.348}
+monte_carlo362.py
+{'initialize': 75.597, 'rand': 42.43, 'nextDouble': 75.96, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo363.py
+{'initialize': 75.597, 'rand': 42.43, 'nextDouble': 75.96, 'MonteCarlo': 64.99000000000001, 'main': 31.918}
+monte_carlo364.py
+{'initialize': 75.597, 'rand': 42.43, 'nextDouble': 83.36, 'MonteCarlo': 18.16, 'main': 32.348}
+monte_carlo365.py
+{'initialize': 75.597, 'rand': 42.43, 'nextDouble': 83.36, 'MonteCarlo': 19.02, 'main': 31.918}
+monte_carlo366.py
+{'initialize': 75.597, 'rand': 42.43, 'nextDouble': 83.36, 'MonteCarlo': 18.59, 'main': 31.918}
+monte_carlo367.py
+{'initialize': 75.597, 'rand': 42.43, 'nextDouble': 35.46, 'MonteCarlo': 110.96000000000002, 'main': 32.348}
+monte_carlo368.py
+{'initialize': 75.597, 'rand': 42.43, 'nextDouble': 35.46, 'MonteCarlo': 111.82000000000002, 'main': 31.918}
+monte_carlo369.py
+{'initialize': 75.597, 'rand': 42.43, 'nextDouble': 35.46, 'MonteCarlo': 111.39000000000001, 'main': 31.918}
+monte_carlo37.py
+{'initialize': 92.39000000000003, 'rand': 18.16, 'nextDouble': 42.86, 'MonteCarlo': 47.260000000000005, 'main': 32.348}
+monte_carlo370.py
+{'initialize': 75.597, 'rand': 42.43, 'nextDouble': 42.86, 'MonteCarlo': 64.56000000000002, 'main': 32.348}
+monte_carlo371.py
+{'initialize': 75.597, 'rand': 42.43, 'nextDouble': 42.86, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo372.py
+{'initialize': 75.597, 'rand': 42.43, 'nextDouble': 42.86, 'MonteCarlo': 64.99000000000001, 'main': 31.918}
+monte_carlo373.py
+{'initialize': 75.597, 'rand': 42.43, 'nextDouble': 42.86, 'MonteCarlo': 64.56000000000002, 'main': 32.348}
+monte_carlo374.py
+{'initialize': 75.597, 'rand': 42.43, 'nextDouble': 42.86, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo375.py
+{'initialize': 75.597, 'rand': 42.43, 'nextDouble': 42.86, 'MonteCarlo': 64.99000000000001, 'main': 31.918}
+monte_carlo376.py
+{'initialize': 75.597, 'rand': 42.43, 'nextDouble': 35.46, 'MonteCarlo': 110.96000000000002, 'main': 32.348}
+monte_carlo377.py
+{'initialize': 75.597, 'rand': 42.43, 'nextDouble': 35.46, 'MonteCarlo': 111.82000000000002, 'main': 31.918}
+monte_carlo378.py
+{'initialize': 75.597, 'rand': 42.43, 'nextDouble': 35.46, 'MonteCarlo': 111.39000000000001, 'main': 31.918}
+monte_carlo379.py
+{'initialize': 75.597, 'rand': 42.43, 'nextDouble': 84.86, 'MonteCarlo': 64.56000000000002, 'main': 32.348}
+monte_carlo38.py
+{'initialize': 92.39000000000003, 'rand': 18.16, 'nextDouble': 42.86, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo380.py
+{'initialize': 75.597, 'rand': 42.43, 'nextDouble': 84.86, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo381.py
+{'initialize': 75.597, 'rand': 42.43, 'nextDouble': 84.86, 'MonteCarlo': 64.99000000000001, 'main': 31.918}
+monte_carlo382.py
+{'initialize': 75.597, 'rand': 42.43, 'nextDouble': 77.46, 'MonteCarlo': 110.96000000000002, 'main': 32.348}
+monte_carlo383.py
+{'initialize': 75.597, 'rand': 42.43, 'nextDouble': 77.46, 'MonteCarlo': 111.82000000000002, 'main': 31.918}
+monte_carlo384.py
+{'initialize': 75.597, 'rand': 42.43, 'nextDouble': 77.46, 'MonteCarlo': 111.39000000000001, 'main': 31.918}
+monte_carlo39.py
+{'initialize': 92.39000000000003, 'rand': 18.16, 'nextDouble': 42.86, 'MonteCarlo': 47.690000000000005, 'main': 31.918}
+monte_carlo4.py
+{'initialize': 92.39000000000003, 'rand': 17.73, 'nextDouble': 83.36, 'MonteCarlo': 1.29, 'main': 32.348}
+monte_carlo40.py
+{'initialize': 92.39000000000003, 'rand': 18.16, 'nextDouble': 35.46, 'MonteCarlo': 93.66000000000001, 'main': 32.348}
+monte_carlo41.py
+{'initialize': 92.39000000000003, 'rand': 18.16, 'nextDouble': 35.46, 'MonteCarlo': 94.52000000000002, 'main': 31.918}
+monte_carlo42.py
+{'initialize': 92.39000000000003, 'rand': 18.16, 'nextDouble': 35.46, 'MonteCarlo': 94.09000000000002, 'main': 31.918}
+monte_carlo43.py
+{'initialize': 92.39000000000003, 'rand': 18.16, 'nextDouble': 84.86, 'MonteCarlo': 47.260000000000005, 'main': 32.348}
+monte_carlo44.py
+{'initialize': 92.39000000000003, 'rand': 18.16, 'nextDouble': 84.86, 'MonteCarlo': 48.120000000000005, 'main': 31.918}
+monte_carlo45.py
+{'initialize': 92.39000000000003, 'rand': 18.16, 'nextDouble': 84.86, 'MonteCarlo': 47.690000000000005, 'main': 31.918}
+monte_carlo46.py
+{'initialize': 92.39000000000003, 'rand': 18.16, 'nextDouble': 77.46, 'MonteCarlo': 93.66000000000001, 'main': 32.348}
+monte_carlo47.py
+{'initialize': 92.39000000000003, 'rand': 18.16, 'nextDouble': 77.46, 'MonteCarlo': 94.52000000000002, 'main': 31.918}
+monte_carlo48.py
+{'initialize': 92.39000000000003, 'rand': 18.16, 'nextDouble': 77.46, 'MonteCarlo': 94.09000000000002, 'main': 31.918}
+monte_carlo49.py
+{'initialize': 92.39000000000003, 'rand': 40.93000000000001, 'nextDouble': 75.96, 'MonteCarlo': 64.99000000000001, 'main': 32.348}
+monte_carlo5.py
+{'initialize': 92.39000000000003, 'rand': 17.73, 'nextDouble': 83.36, 'MonteCarlo': 2.15, 'main': 31.918}
+monte_carlo50.py
+{'initialize': 92.39000000000003, 'rand': 40.93000000000001, 'nextDouble': 75.96, 'MonteCarlo': 65.85000000000002, 'main': 31.918}
+monte_carlo51.py
+{'initialize': 92.39000000000003, 'rand': 40.93000000000001, 'nextDouble': 75.96, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo52.py
+{'initialize': 92.39000000000003, 'rand': 40.93000000000001, 'nextDouble': 83.36, 'MonteCarlo': 18.59, 'main': 32.348}
+monte_carlo53.py
+{'initialize': 92.39000000000003, 'rand': 40.93000000000001, 'nextDouble': 83.36, 'MonteCarlo': 19.45, 'main': 31.918}
+monte_carlo54.py
+{'initialize': 92.39000000000003, 'rand': 40.93000000000001, 'nextDouble': 83.36, 'MonteCarlo': 19.02, 'main': 31.918}
+monte_carlo55.py
+{'initialize': 92.39000000000003, 'rand': 40.93000000000001, 'nextDouble': 35.46, 'MonteCarlo': 111.39000000000001, 'main': 32.348}
+monte_carlo56.py
+{'initialize': 92.39000000000003, 'rand': 40.93000000000001, 'nextDouble': 35.46, 'MonteCarlo': 112.25000000000003, 'main': 31.918}
+monte_carlo57.py
+{'initialize': 92.39000000000003, 'rand': 40.93000000000001, 'nextDouble': 35.46, 'MonteCarlo': 111.82000000000002, 'main': 31.918}
+monte_carlo58.py
+{'initialize': 92.39000000000003, 'rand': 40.93000000000001, 'nextDouble': 42.86, 'MonteCarlo': 64.99000000000001, 'main': 32.348}
+monte_carlo59.py
+{'initialize': 92.39000000000003, 'rand': 40.93000000000001, 'nextDouble': 42.86, 'MonteCarlo': 65.85000000000002, 'main': 31.918}
+monte_carlo6.py
+{'initialize': 92.39000000000003, 'rand': 17.73, 'nextDouble': 83.36, 'MonteCarlo': 1.72, 'main': 31.918}
+monte_carlo60.py
+{'initialize': 92.39000000000003, 'rand': 40.93000000000001, 'nextDouble': 42.86, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo61.py
+{'initialize': 92.39000000000003, 'rand': 40.93000000000001, 'nextDouble': 42.86, 'MonteCarlo': 64.99000000000001, 'main': 32.348}
+monte_carlo62.py
+{'initialize': 92.39000000000003, 'rand': 40.93000000000001, 'nextDouble': 42.86, 'MonteCarlo': 65.85000000000002, 'main': 31.918}
+monte_carlo63.py
+{'initialize': 92.39000000000003, 'rand': 40.93000000000001, 'nextDouble': 42.86, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo64.py
+{'initialize': 92.39000000000003, 'rand': 40.93000000000001, 'nextDouble': 35.46, 'MonteCarlo': 111.39000000000001, 'main': 32.348}
+monte_carlo65.py
+{'initialize': 92.39000000000003, 'rand': 40.93000000000001, 'nextDouble': 35.46, 'MonteCarlo': 112.25000000000003, 'main': 31.918}
+monte_carlo66.py
+{'initialize': 92.39000000000003, 'rand': 40.93000000000001, 'nextDouble': 35.46, 'MonteCarlo': 111.82000000000002, 'main': 31.918}
+monte_carlo67.py
+{'initialize': 92.39000000000003, 'rand': 40.93000000000001, 'nextDouble': 84.86, 'MonteCarlo': 64.99000000000001, 'main': 32.348}
+monte_carlo68.py
+{'initialize': 92.39000000000003, 'rand': 40.93000000000001, 'nextDouble': 84.86, 'MonteCarlo': 65.85000000000002, 'main': 31.918}
+monte_carlo69.py
+{'initialize': 92.39000000000003, 'rand': 40.93000000000001, 'nextDouble': 84.86, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo7.py
+{'initialize': 92.39000000000003, 'rand': 17.73, 'nextDouble': 35.46, 'MonteCarlo': 94.09000000000002, 'main': 32.348}
+monte_carlo70.py
+{'initialize': 92.39000000000003, 'rand': 40.93000000000001, 'nextDouble': 77.46, 'MonteCarlo': 111.39000000000001, 'main': 32.348}
+monte_carlo71.py
+{'initialize': 92.39000000000003, 'rand': 40.93000000000001, 'nextDouble': 77.46, 'MonteCarlo': 112.25000000000003, 'main': 31.918}
+monte_carlo72.py
+{'initialize': 92.39000000000003, 'rand': 40.93000000000001, 'nextDouble': 77.46, 'MonteCarlo': 111.82000000000002, 'main': 31.918}
+monte_carlo73.py
+{'initialize': 92.39000000000003, 'rand': 41.36, 'nextDouble': 75.96, 'MonteCarlo': 64.56000000000002, 'main': 32.348}
+monte_carlo74.py
+{'initialize': 92.39000000000003, 'rand': 41.36, 'nextDouble': 75.96, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo75.py
+{'initialize': 92.39000000000003, 'rand': 41.36, 'nextDouble': 75.96, 'MonteCarlo': 64.99000000000001, 'main': 31.918}
+monte_carlo76.py
+{'initialize': 92.39000000000003, 'rand': 41.36, 'nextDouble': 83.36, 'MonteCarlo': 18.16, 'main': 32.348}
+monte_carlo77.py
+{'initialize': 92.39000000000003, 'rand': 41.36, 'nextDouble': 83.36, 'MonteCarlo': 19.02, 'main': 31.918}
+monte_carlo78.py
+{'initialize': 92.39000000000003, 'rand': 41.36, 'nextDouble': 83.36, 'MonteCarlo': 18.59, 'main': 31.918}
+monte_carlo79.py
+{'initialize': 92.39000000000003, 'rand': 41.36, 'nextDouble': 35.46, 'MonteCarlo': 110.96000000000002, 'main': 32.348}
+monte_carlo8.py
+{'initialize': 92.39000000000003, 'rand': 17.73, 'nextDouble': 35.46, 'MonteCarlo': 94.95000000000003, 'main': 31.918}
+monte_carlo80.py
+{'initialize': 92.39000000000003, 'rand': 41.36, 'nextDouble': 35.46, 'MonteCarlo': 111.82000000000002, 'main': 31.918}
+monte_carlo81.py
+{'initialize': 92.39000000000003, 'rand': 41.36, 'nextDouble': 35.46, 'MonteCarlo': 111.39000000000001, 'main': 31.918}
+monte_carlo82.py
+{'initialize': 92.39000000000003, 'rand': 41.36, 'nextDouble': 42.86, 'MonteCarlo': 64.56000000000002, 'main': 32.348}
+monte_carlo83.py
+{'initialize': 92.39000000000003, 'rand': 41.36, 'nextDouble': 42.86, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo84.py
+{'initialize': 92.39000000000003, 'rand': 41.36, 'nextDouble': 42.86, 'MonteCarlo': 64.99000000000001, 'main': 31.918}
+monte_carlo85.py
+{'initialize': 92.39000000000003, 'rand': 41.36, 'nextDouble': 42.86, 'MonteCarlo': 64.56000000000002, 'main': 32.348}
+monte_carlo86.py
+{'initialize': 92.39000000000003, 'rand': 41.36, 'nextDouble': 42.86, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo87.py
+{'initialize': 92.39000000000003, 'rand': 41.36, 'nextDouble': 42.86, 'MonteCarlo': 64.99000000000001, 'main': 31.918}
+monte_carlo88.py
+{'initialize': 92.39000000000003, 'rand': 41.36, 'nextDouble': 35.46, 'MonteCarlo': 110.96000000000002, 'main': 32.348}
+monte_carlo89.py
+{'initialize': 92.39000000000003, 'rand': 41.36, 'nextDouble': 35.46, 'MonteCarlo': 111.82000000000002, 'main': 31.918}
+monte_carlo9.py
+{'initialize': 92.39000000000003, 'rand': 17.73, 'nextDouble': 35.46, 'MonteCarlo': 94.52000000000002, 'main': 31.918}
+monte_carlo90.py
+{'initialize': 92.39000000000003, 'rand': 41.36, 'nextDouble': 35.46, 'MonteCarlo': 111.39000000000001, 'main': 31.918}
+monte_carlo91.py
+{'initialize': 92.39000000000003, 'rand': 41.36, 'nextDouble': 84.86, 'MonteCarlo': 64.56000000000002, 'main': 32.348}
+monte_carlo92.py
+{'initialize': 92.39000000000003, 'rand': 41.36, 'nextDouble': 84.86, 'MonteCarlo': 65.42000000000002, 'main': 31.918}
+monte_carlo93.py
+{'initialize': 92.39000000000003, 'rand': 41.36, 'nextDouble': 84.86, 'MonteCarlo': 64.99000000000001, 'main': 31.918}
+monte_carlo94.py
+{'initialize': 92.39000000000003, 'rand': 41.36, 'nextDouble': 77.46, 'MonteCarlo': 110.96000000000002, 'main': 32.348}
+monte_carlo95.py
+{'initialize': 92.39000000000003, 'rand': 41.36, 'nextDouble': 77.46, 'MonteCarlo': 111.82000000000002, 'main': 31.918}
+monte_carlo96.py
+{'initialize': 92.39000000000003, 'rand': 41.36, 'nextDouble': 77.46, 'MonteCarlo': 111.39000000000001, 'main': 31.918}
+monte_carlo97.py
+{'initialize': 73.75, 'rand': 59.730000000000004, 'nextDouble': 75.96, 'MonteCarlo': 47.690000000000005, 'main': 32.348}
+monte_carlo98.py
+{'initialize': 73.75, 'rand': 59.730000000000004, 'nextDouble': 75.96, 'MonteCarlo': 48.550000000000004, 'main': 31.918}
+monte_carlo99.py
+{'initialize': 73.75, 'rand': 59.730000000000004, 'nextDouble': 75.96, 'MonteCarlo': 48.120000000000005, 'main': 31.918}

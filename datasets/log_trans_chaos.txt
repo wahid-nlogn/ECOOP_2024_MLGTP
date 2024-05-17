@@ -1,0 +1,615 @@
+chaos1.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos10.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos10.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos100.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos100.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1000.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1000.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1001.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1001.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1002.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1002.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1003.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1003.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1004.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1004.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1005.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1005.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1006.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1006.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1007.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1007.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1008.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1008.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1009.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1009.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos101.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos101.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1010.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1010.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1011.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1011.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1012.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1012.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1013.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1013.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1014.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1014.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1015.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1015.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1016.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1016.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1017.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1017.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1018.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1018.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1019.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1019.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos102.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos102.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1020.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1020.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1021.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1021.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1022.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1022.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1023.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1023.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1024.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1024.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1025.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1025.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1026.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1026.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1027.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1027.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1028.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1028.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1029.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1029.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos103.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos103.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1030.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1030.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1031.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1031.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1032.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1032.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1033.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1033.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'
+chaos1034.py
+Traceback (most recent call last):
+  File "D:\python3.6\Scripts\retic-script.py", line 11, in <module>
+    load_entry_point('retic==0.1.0', 'console_scripts', 'retic')()
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 155, in main
+    reticulate(program, prog_args=args.args.split(), flag_sets=args)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 104, in reticulate
+    utils.handle_runtime_error(exit=True)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\retic.py", line 102, in reticulate
+    _exec(code, __main__.__dict__)
+  File "D:\python3.6\lib\site-packages\retic-0.1.0-py3.6.egg\retic\exec3\__init__.py", line 2, in _exec
+    exec (obj, globs, locs)
+  File ".\chaos1034.py", line 7, in <module>
+    import six
+ModuleNotFoundError: No module named 'six'

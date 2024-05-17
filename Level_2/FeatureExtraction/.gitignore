@@ -1,0 +1,6 @@
+academic/
+**/__pycache__/
+*.pyc
+*~
+*#
+*.html

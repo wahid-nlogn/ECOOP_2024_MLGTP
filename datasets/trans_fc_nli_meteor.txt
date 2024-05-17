@@ -1,0 +1,2048 @@
+met1.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met10.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met100.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met1000.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met1001.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met1002.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met1003.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met1004.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met1005.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met1006.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met1007.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met1008.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met1009.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met101.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met1010.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met1011.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met1012.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met1013.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met1014.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met1015.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met1016.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met1017.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met1018.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met1019.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met102.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met1020.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met1021.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met1022.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met1023.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met1024.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met103.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met104.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met105.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met106.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met107.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met108.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met109.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met11.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met110.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met111.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met112.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met113.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met114.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met115.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met116.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met117.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met118.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met119.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met12.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met120.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met121.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met122.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met123.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met124.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met125.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met126.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met127.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met128.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met129.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met13.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met130.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met131.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met132.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met133.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met134.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met135.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met136.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met137.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met138.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met139.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met14.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met140.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met141.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met142.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met143.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met144.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met145.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met146.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met147.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met148.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met149.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met15.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met150.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met151.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met152.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met153.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met154.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met155.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met156.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met157.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met158.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met159.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met16.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met160.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met161.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met162.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met163.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met164.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met165.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met166.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met167.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met168.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met169.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met17.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met170.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met171.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met172.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met173.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met174.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met175.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met176.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met177.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met178.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met179.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met18.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met180.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met181.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met182.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met183.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met184.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met185.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met186.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met187.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met188.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met189.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met19.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met190.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met191.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met192.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met193.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met194.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met195.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met196.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met197.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met198.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met199.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met2.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met20.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met200.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met201.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met202.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met203.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met204.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met205.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met206.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met207.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met208.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met209.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met21.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met210.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met211.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met212.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met213.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met214.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met215.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met216.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met217.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met218.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met219.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met22.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met220.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met221.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met222.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met223.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met224.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met225.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met226.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met227.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met228.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met229.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met23.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met230.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met231.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met232.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met233.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met234.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met235.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met236.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met237.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met238.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met239.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met24.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met240.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met241.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met242.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met243.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met244.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met245.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met246.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met247.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met248.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met249.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met25.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met250.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met251.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met252.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met253.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met254.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met255.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met256.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met257.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met258.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met259.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met26.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met260.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met261.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met262.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met263.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met264.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met265.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met266.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met267.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met268.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met269.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met27.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met270.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met271.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met272.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met273.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met274.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met275.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met276.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met277.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met278.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met279.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met28.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met280.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met281.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met282.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met283.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met284.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met285.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met286.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met287.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met288.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met289.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met29.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met290.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met291.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met292.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met293.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met294.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met295.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met296.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met297.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met298.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met299.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met3.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met30.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met300.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met301.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met302.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met303.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met304.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met305.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met306.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met307.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met308.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met309.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met31.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met310.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met311.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met312.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met313.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met314.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met315.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met316.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met317.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met318.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met319.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met32.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met320.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met321.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met322.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met323.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met324.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met325.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met326.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met327.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met328.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met329.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met33.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met330.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met331.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met332.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met333.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met334.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met335.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met336.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met337.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met338.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met339.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met34.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met340.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met341.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met342.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met343.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met344.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met345.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met346.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met347.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met348.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met349.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met35.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met350.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met351.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met352.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met353.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met354.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met355.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met356.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met357.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met358.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met359.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met36.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met360.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met361.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met362.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met363.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met364.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met365.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met366.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met367.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met368.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met369.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met37.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met370.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met371.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met372.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met373.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met374.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met375.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met376.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met377.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met378.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met379.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met38.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met380.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met381.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met382.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met383.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met384.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met385.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met386.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met387.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met388.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met389.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met39.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met390.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met391.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met392.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met393.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met394.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met395.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met396.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met397.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met398.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met399.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met4.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met40.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met400.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met401.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met402.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met403.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met404.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met405.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met406.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met407.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met408.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met409.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met41.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met410.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met411.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met412.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met413.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met414.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met415.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met416.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met417.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met418.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met419.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met42.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met420.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met421.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met422.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met423.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met424.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met425.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met426.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met427.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met428.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met429.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met43.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met430.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met431.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met432.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met433.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met434.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met435.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met436.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met437.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met438.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met439.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met44.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met440.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met441.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met442.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met443.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met444.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met445.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met446.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met447.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met448.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met449.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met45.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met450.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met451.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met452.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met453.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met454.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met455.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met456.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met457.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met458.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met459.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met46.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met460.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met461.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met462.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met463.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met464.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met465.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met466.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met467.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met468.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met469.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met47.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met470.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met471.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met472.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met473.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met474.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met475.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met476.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met477.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met478.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met479.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met48.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met480.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met481.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met482.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met483.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met484.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met485.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met486.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met487.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met488.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met489.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met49.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met490.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met491.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met492.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met493.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met494.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met495.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met496.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met497.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met498.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met499.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met5.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met50.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met500.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met501.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met502.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met503.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met504.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met505.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met506.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met507.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met508.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met509.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met51.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met510.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met511.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met512.py
+{'rotate': 0, 'flip': 0, 'permute': 1761, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met513.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met514.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met515.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met516.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met517.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met518.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met519.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met52.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met520.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met521.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met522.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met523.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met524.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met525.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met526.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met527.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met528.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met529.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met53.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met530.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met531.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met532.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met533.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met534.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met535.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met536.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met537.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met538.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met539.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met54.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met540.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met541.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met542.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met543.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met544.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met545.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met546.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met547.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met548.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met549.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met55.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met550.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met551.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met552.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met553.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met554.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met555.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met556.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met557.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met558.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met559.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met56.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met560.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met561.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met562.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met563.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met564.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met565.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met566.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met567.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met568.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met569.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met57.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met570.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met571.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met572.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met573.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met574.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met575.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met576.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met577.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met578.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met579.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met58.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met580.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met581.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met582.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met583.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met584.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met585.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met586.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met587.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met588.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met589.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met59.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met590.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met591.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met592.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met593.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met594.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met595.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met596.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met597.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met598.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met599.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met6.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met60.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met600.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met601.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met602.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met603.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met604.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met605.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met606.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met607.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met608.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met609.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met61.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met610.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met611.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met612.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met613.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met614.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met615.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met616.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met617.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met618.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met619.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met62.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met620.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met621.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met622.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met623.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met624.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met625.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met626.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met627.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met628.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met629.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met63.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met630.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met631.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met632.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met633.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met634.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met635.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met636.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met637.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met638.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met639.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met64.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met640.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met641.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met642.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met643.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met644.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met645.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met646.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met647.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met648.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met649.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met65.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met650.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met651.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met652.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met653.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met654.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met655.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met656.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met657.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met658.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met659.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met66.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met660.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met661.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met662.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met663.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met664.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met665.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met666.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met667.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met668.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met669.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met67.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met670.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met671.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met672.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met673.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met674.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met675.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met676.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met677.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met678.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met679.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met68.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met680.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met681.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met682.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met683.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met684.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met685.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met686.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met687.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met688.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met689.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met69.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met690.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met691.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met692.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met693.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met694.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met695.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met696.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met697.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met698.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met699.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met7.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met70.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met700.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met701.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met702.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met703.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met704.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met705.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met706.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met707.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met708.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met709.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met71.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met710.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met711.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met712.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met713.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met714.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met715.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met716.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met717.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met718.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met719.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met72.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met720.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met721.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met722.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met723.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met724.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met725.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met726.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met727.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met728.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met729.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met73.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met730.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met731.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met732.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met733.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met734.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met735.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met736.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met737.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met738.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met739.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met74.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met740.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met741.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met742.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met743.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met744.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met745.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met746.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met747.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met748.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met749.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met75.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met750.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met751.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met752.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met753.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met754.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met755.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met756.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met757.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met758.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met759.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met76.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met760.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met761.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met762.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met763.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met764.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met765.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met766.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met767.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met768.py
+{'rotate': 0, 'flip': 0, 'permute': 931, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met769.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met77.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met770.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met771.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met772.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met773.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met774.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met775.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met776.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met777.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met778.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met779.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met78.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met780.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met781.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met782.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met783.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met784.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met785.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met786.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met787.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met788.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met789.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met79.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met790.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met791.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met792.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met793.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met794.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met795.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met796.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met797.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met798.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met799.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met8.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met80.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met800.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met801.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met802.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met803.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met804.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met805.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met806.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met807.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met808.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met809.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met81.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met810.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met811.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met812.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met813.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met814.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met815.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met816.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met817.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met818.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met819.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met82.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met820.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met821.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met822.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met823.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met824.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met825.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met826.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met827.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met828.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met829.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met83.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met830.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met831.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met832.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met833.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met834.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met835.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met836.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met837.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met838.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met839.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met84.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met840.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met841.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met842.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met843.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met844.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met845.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met846.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met847.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met848.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met849.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met85.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met850.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met851.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met852.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met853.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met854.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met855.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met856.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met857.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met858.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met859.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met86.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met860.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met861.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met862.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met863.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met864.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met865.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met866.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met867.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met868.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met869.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met87.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met870.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met871.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met872.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met873.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met874.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met875.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met876.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met877.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met878.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met879.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met88.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met880.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met881.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met882.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met883.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met884.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met885.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met886.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met887.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met888.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met889.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met89.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met890.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met891.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met892.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met893.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met894.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met895.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met896.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met897.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met898.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met899.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met9.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 5, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met90.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met900.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met901.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met902.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met903.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met904.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met905.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met906.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met907.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met908.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met909.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met91.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met910.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met911.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met912.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met913.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met914.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met915.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met916.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met917.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met918.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met919.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met92.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met920.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met921.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met922.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met923.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met924.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met925.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met926.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met927.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met928.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met929.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met93.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 6, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met930.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met931.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met932.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met933.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met934.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met935.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met936.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met937.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met938.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met939.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met94.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met940.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met941.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met942.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met943.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met944.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met945.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met946.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met947.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met948.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met949.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met95.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met950.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met951.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met952.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met953.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met954.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met955.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met956.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met957.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met958.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met959.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met96.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met960.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met961.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met962.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met963.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met964.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met965.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met966.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met967.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met968.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met969.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met97.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 9, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met970.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met971.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met972.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met973.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met974.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met975.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met976.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met977.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met978.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met979.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met98.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met980.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met981.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met982.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met983.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met984.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met985.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met986.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met987.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met988.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 6}
+met989.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 7, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 10}
+met99.py
+{'rotate': 0, 'flip': 0, 'permute': 881, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met990.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met991.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 7}
+met992.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 8, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 9}
+met993.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 1}
+met994.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met995.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met996.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 0}
+met997.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 10, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 4}
+met998.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
+met999.py
+{'rotate': 0, 'flip': 0, 'permute': 1811, 'convert': 377, 'get_footprints': 18854, 'get_senh': 50, 'get_puzzle': 11, 'solve': 1578.0, 'bench_meteor_contest': 6, 'main': 3}
